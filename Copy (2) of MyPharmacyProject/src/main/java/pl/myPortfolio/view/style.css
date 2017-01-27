@@ -1,0 +1,9 @@
+.button:hover {
+    -fx-border-color: lightblue;
+	-fx-border-width: 1.0;
+ 
+    
+}
+#archonPaneCSS{
+	-fx-background-image: url("../res/background.png");
+}
